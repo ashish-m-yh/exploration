@@ -1,5 +1,9 @@
 # Exploratory projects (mostly non CS)
 
+## Purpose
+
+This project is a workspace for ideation and work in progress initiatives. Once POC is completed, it will be taken off the list and the final outcomes documented in blog.
+
 ## Environmental
 
 - Solar thermal for power generation and water heating (domestic)
